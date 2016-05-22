@@ -1,0 +1,7 @@
+name: SmashsAPI
+main: fr.toxicpropre.API
+version: 1.0
+author: ToxicPropre
+commands:
+    rank:
+        description: Commande reserve aux Administrateur!
